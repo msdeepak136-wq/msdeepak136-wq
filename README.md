@@ -1,9 +1,9 @@
-# 💫 Hi 👋, I'm M S Deepak
+# 💫 Hi , I'm M S Deepak
 **Computer Science Engineering student with a strong interest in Software Development, Data Structures & Algorithms, and problem-solving.**
 
 Email Me 👉 ✉️ **msdeepak136@gmail.com**
 
- ## 🚀 About Me
+ # 🚀 About Me
  🎓 Pursuing B.E. in Computer Science Engineering at Vidyavardhaka College of Engineering, Mysuru
 - 💻 Passionate about programming, software development, and algorithmic problem-solving
 - 🌱 Currently strengthening my skills in Data Structures & Algorithms and core Computer Science subjects
